@@ -1,0 +1,31 @@
+# Compiled files
+*.bin
+*.elf
+*.hex
+*.map
+
+# Build folders
+build/
+*.ino.bin
+*.ino.elf
+
+# Arduino IDE temporary files
+*.tmp
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Arduino IDE v2 cache
+.arduinoIDE/
+arduino_build_*
+arduino_cache_*
+
+# ESP32 core cache
+*.partitions.bin
